@@ -1,5 +1,7 @@
 # Academic Outreach Dashboard
 
+Originally developed as collaborative coursework for CS411 at UIUC.
+
 ## Links
 
 - [Video](https://mediaspace.illinois.edu/media/t/1_f2wptnji)
