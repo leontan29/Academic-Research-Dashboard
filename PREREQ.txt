@@ -1,0 +1,5 @@
+pip install mysql-connector-python
+pip install neo4j
+pip install pymongo
+pip install dash-bootstrap-components
+pip install openai

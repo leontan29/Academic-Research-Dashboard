@@ -1,0 +1,168 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+
+/* General body styling */
+body {
+    background-color: #f9f9f9;
+    background-color: #f6f6f8
+    color: #333;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3 {
+    color: #3c3c3c;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+/* Container for the entire app */
+.container {
+    padding: 20px;
+}
+
+/* Styling for H1 elements */
+h1 {
+    text-align: center;
+}
+
+/* Styling for H2 elements */
+h2 {
+}
+
+/* Styling for paragraphs */
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+
+button {
+    background-color: #28a745;
+    color: white;
+    border-radius: 10px;
+    margin: 1em;
+    padding: 0.2em 1em;
+    border: none;
+    font-size: 110%;
+}
+
+input {
+    font-size: 120%;
+}
+
+div.title h1 {
+    font-size: 300%;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+div.top_count_container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 120%;
+    padding: 5px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+div.top_count_container div.item {
+    width: 20%;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #cfe2f3;
+    padding: 1em 0;
+}
+
+div.top_count_container strong {
+    font-size: 200%;
+    color: #3c3c3c;
+}
+
+div.contact_list {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 29%;
+}
+
+div.part1 {
+    display: flex;
+}
+
+div.kwexplorer_container {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 70%;
+}
+
+
+
+div.kwexplorer_container div.item {
+    width: 45%;
+    display: inline-block;
+    margin:  1em;
+}
+
+
+div.part2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.kwsearch_container {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 24%;
+}
+
+
+
+div.top5kw_container {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 24%;
+}
+
+
+div.rlist_container {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 50%;
+}
+
+
+div.contact_list_container {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 29%;
+}
+
+div.part3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.recommended_reading_list_container {
+    background-color: #cfe2f3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+    width: 100%;
+    border: 1px red;
+}
+
+

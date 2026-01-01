@@ -1,0 +1,5 @@
+export NEO4J_USER='neo4j'
+export NEO4J_PASSWORD='neo4j,1234'
+export MYSQL_USER='leontan'
+export MYSQL_PASSWORD=''
+export OPENAI_API_KEY='sk-proj-Vyo07ARjActG5ym7AQyFT3BlbkFJjtrX4fK8sBeZNwJPQFdD'
