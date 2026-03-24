@@ -4,7 +4,7 @@ Originally developed as collaborative coursework for CS411 at UIUC.
 
 ## Links
 
-- [Video](https://mediaspace.illinois.edu/media/t/1_f2wptnji)
+- [Video]([https://mediaspace.illinois.edu/media/t/1_f2wptnji](https://youtu.be/3p7jld1Z260))
 - [Image](https://mediaspace.illinois.edu/media/t/1_8dj1amxq)
 
 
